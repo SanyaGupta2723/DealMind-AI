@@ -6,27 +6,13 @@ import './globals.css'
 const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "DealMind AI",
-  description: "AI Powered Negotiation Platform",
-
+export const metadata: Metadata = {
+  title: 'DealMind AI',
+  description: 'AI Powered Negotiation Platform',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: 'https://dealmind.us/wp-content/uploads/2025/03/dealmind-logo.jpg',
+    apple: 'https://dealmind.us/wp-content/uploads/2025/03/dealmind-logo.jpg',
   },
 }
 
