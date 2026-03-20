@@ -199,4 +199,4 @@ Final Deal 🤝 → ₹12,500
 
 # ⭐ Support
 
-If you like this project, please ⭐ the repository and share it.
+If you like this project, please ⭐ the repository and share it .
