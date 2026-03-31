@@ -193,7 +193,8 @@ Final Deal 🤝 → ₹12,500
 
 # 👨‍💻 Author
 
-**Project Authour Sanya Gupta**
+**Project Authour**
+**Sanya Gupta**
 
 ---
 
